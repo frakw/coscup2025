@@ -8,7 +8,7 @@ Session : https://coscup.org/2025/sessions/3LWSX3
 \
 Hackmd Note : https://hackmd.io/ryQn_9bOle
 \
-PPT URL : [PDF](./materials/OpenSourceHomeNetworkEnvironment.pdf)
+PPT URL : [PDF](https://shlink.frakw.work/coscup_2025_ppt)
 ## Recording
 * [COSCUP Official Recording](https://youtube.com/watch?v=CosZLoVITLQ)
 [![](./materials/yt_thumbnail.jpg)](https://youtube.com/watch?v=CosZLoVITLQ)
